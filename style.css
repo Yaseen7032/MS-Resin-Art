@@ -136,6 +136,7 @@ body {
 .main-title {
   text-transform: uppercase;
   margin-top: 1.5em;
+  text-align: center;
 }
 
 /* ......//about us//...... */
