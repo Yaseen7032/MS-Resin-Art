@@ -1,0 +1,21 @@
+{
+  "name": "MS Resin Art",
+  "short_name": "MS Resin",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a083",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.jpeg",
+      "sizes": "192x192",
+      "type": "logo.jpeg"
+    },
+    {
+      "src": "logo.jpeg",
+      "sizes": "512x512",
+      "type": "logo.jpeg"
+    }
+  ]
+}
